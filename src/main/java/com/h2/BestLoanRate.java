@@ -3,7 +3,7 @@ package com.h2;
 import java.util.Map;
 import java.util.Scanner;
 
-public class BestLoanRates {
+class BestLoanRates {
     public static final Map<Integer, Float> bestRates = Map.of(
             1, 5.50f,
             2, 3.45f,
